@@ -28,4 +28,4 @@ The goal of this documentation is to:
 
 # ✅ Topics Covered (WIP ⏳)
 
-![dotNet plan](DotNetPlan.JPG)
+![dotNet plan](./DotNetPlan.jpg)
