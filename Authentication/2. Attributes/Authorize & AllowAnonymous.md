@@ -4,10 +4,8 @@
 > We can put it on the endpoint or on the whole controller. 
 ### 🔐 Summary of `[Authorize]` Attribute:
 
-- Ensures that **only authenticated users** can access certain endpoints.
-    
-- Can be customized to allow access based on **roles**, **policies**, or **claims**.
-    
+- Ensures that **only authenticated users** can access certain endpoints.    
+- Can be customized to allow access based on **roles**, **policies**, or **claims**.    
 - Used on **controllers**, **actions**, or globally.
 
 ✅ Basic Example
