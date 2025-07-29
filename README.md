@@ -26,6 +26,12 @@ The goal of this documentation is to:
 - Links to helpful online documentation and tools
 - Markdown-based notes and walkthroughs
 
+## 📁Related Projects:
+
+- PalMazad Project: https://github.com/MohammadDarAbed/PalMazad
+- Authentication Project: https://github.com/MohammadDarAbed/Authentication
+
+---
 # ✅ Topics Covered (WIP ⏳)
 
 ![dotNet plan](./Photos/DotNetPlan.jpg)
