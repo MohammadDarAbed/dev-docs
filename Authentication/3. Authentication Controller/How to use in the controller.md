@@ -62,7 +62,7 @@ public class SecureController : ControllerBase
 - You can also add **roles or claims** in the handler for role-based authorization if needed.
 
 if i need to access on the username or id: 
-![Auth Get Data Result](../Photos/GetUserNameAndId.png)
+![Get Username And Id](../Photos/GetUserNameAndId.png)
 
 
 we can make the authorize on all the controller instead of make it by each endpoint like: 
