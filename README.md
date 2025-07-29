@@ -28,5 +28,4 @@ The goal of this documentation is to:
 
 # ✅ Topics Covered (WIP ⏳)
 
-![dotNet plan](https://github.com/user-attachments/assets/ce09fd15-7a3f-4f7d-a0a8-538a52a132f4)
-![[dotNet plan 1.jpg]]
+![dotNet plan](DotNetPlan.JPG)
