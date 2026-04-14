@@ -1,37 +1,52 @@
-# 📘 .NET Learning Documentation
+# 📘 Full-Stack Developer Documentation Hub
 
 Welcome! 👋  
-This repository contains notes, code snippets, and references focused on learning the **core concepts and fundamentals of .NET**.
+This repository is my structured documentation of real-world software development concepts and hands-on experience across .NET, Angular, GitHub, and Azure.
 
-> 📌 Note: This is for **learning and experimentation purposes only**. Code and explanations are simplified for clarity.
+> 📌 Note: This repo is for learning, experimentation, and reference purposes. Content is simplified for clarity and practical understanding.
 
-> 📌 Note: This Repository is Best Edited and Viewed Using [https://obsidian.md/](https://obsidian.md/)
+> 📌 Note: Best viewed and edited using [Obsidian](https://obsidian.md/)
 
 ---
 
 ## 🎯 Purpose
 
-The goal of this documentation is to:
+This documentation helps me to:
 
-- Understand and explore essential **.NET concepts**.
-- Learn by combining **official resources**, **community content**, and **hands-on code snippets**.
-- Serve as a personal **learning companion** or a **quick reference** for future projects.
+- Understand and apply core **software engineering concepts**
+- Build real-world **full-stack applications (.NET + Angular)**
+- Learn **system design, architecture, and deployment**
+- Maintain a personal **engineering knowledge base**
+
+---
+
+## ⚙️ Technologies Covered
+
+- ASP.NET Core Web API
+- Angular
+- Git & GitHub workflows
+- Azure deployment
+- Full-stack integration patterns
 
 ---
 
 ## 📚 What's Included
 
-- Concept summaries (e.g., Authorization, Dependency Injection, Middleware)
-- Code examples and usage patterns
-- Links to helpful online documentation and tools
-- Markdown-based notes and walkthroughs
-
-## 📁Related Projects:
-
-- PalMazad Project: https://github.com/MohammadDarAbed/PalMazad
-- Authentication Project: https://github.com/MohammadDarAbed/Authentication
+- Backend concepts (.NET Core, APIs, Authentication)
+- Frontend structure (Angular components, services, routing)
+- DevOps basics (GitHub workflows, CI/CD)
+- Cloud deployment (Azure)
+- Practical code snippets and patterns
 
 ---
-# ✅ Topics Covered (WIP ⏳)
+
+## 📁 Related Projects
+
+- 🟦 PalMazad Project → https://github.com/MohammadDarAbed/PalMazad  
+- 🔐 Authentication Project → https://github.com/MohammadDarAbed/Authentication  
+
+---
+
+## 🧠 Topics Covered (WIP ⏳)
 
 ![dotNet plan](./Photos/DotNetPlan.jpg)
